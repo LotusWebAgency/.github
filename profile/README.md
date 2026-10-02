@@ -55,7 +55,7 @@ development and support.
 
 ## Technologies we work with
 
-`PrestaShop` · `Laravel` · `Filament` · `PHP` · `TypeScript` · `Vue` · `Astro` ·
+`PrestaShop` · `Laravel` · `Filament` · `PHP` · `TypeScript` · `Vue` · `Nuxt` · `Astro` ·
 `Rust` · `WebAssembly` · `Cloudflare` · `Docker` · `Meilisearch` · `Redis` ·
 `MySQL`
 
